@@ -1,2 +1,2 @@
 # NoughtsAndCrosses
-tu bedzie opis jak go napisze
+A simple game meant to be played with a friend. No AI included.
